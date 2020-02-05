@@ -1,0 +1,72 @@
+<!DOCTYPE>: select the HTML version
+attribution html (most popular version)
+ex. <!DOCTILE *****( Your version for html)
+
+<body>: what will show in the website page
+attribution none
+ex. <body> *******************
+************************
+*******************************(What you wrote in the code for main page)
+</body>
+
+<head>: contains things for your browser to think about
+attribution none
+ex. <head> 
+<title>**********(Your website name)</title>
+</head>
+
+<html>: tells browsers where your html code starts and ends 
+attribution none
+ex.<html> ********************
+******************
+**************************
+*****************
+***************(Your all code that you what them to workin the wedpage)
+</html>
+
+<title>: Your webpage name
+attribution none
+ex. <head> 
+<title>**********(Your website name)</title>
+</head>
+
+<a>: tag for connect to the website.
+attribution none
+ex. <a href=" ***************(your website link) "> ******************(you can put anything, and it will appear on your website.) </a>
+
+<h1>: Header tag, makes the text large and puts it on a seperate line
+attribution none
+ex. <h1> *************** </h2>
+h1>h2>h3>h4>h5>h6
+
+<img>: showing an image on your website
+attribution none
+ex. <img src="**********(Your picture name.)">
+
+<li>: using in side of <ol> or <ul>, for making a list of you subject.
+attribution none
+ex. <ul>/<ol>
+          <li> *****************************</li>
+		  <li> *****************************</li>
+		  <li> *****************************</li>
+
+<ol>: making a list with dot.
+attribution none
+ex. <ol>
+        . **************************************
+		. **************************************
+		. **************************************
+	</ol>	
+
+<p>: Using for makina a paragraph
+attribution none
+ex. <p> *****************************************</p>
+
+<ul>: making a list with number.
+attribution none
+ex.<ul>
+        1.*********************************************
+		2.*********************************************
+		3.*********************************************
+	</ul>
+	
