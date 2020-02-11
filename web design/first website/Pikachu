@@ -4,12 +4,14 @@
 
 <html>
 
+
+
 <head>
 
 
-      <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
-     <title> Mycraft</title>
-
+        <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+       <title> Pikachu </title>
+        
 
 
        <style>
@@ -74,28 +76,24 @@
 
 		            color: yellow;
 
-                     text-shadow: 2px 2px 3px black;
-                     font-size: 50pt
-                
+                    text-shadow: 2px 2px 3px black;
+                     font-family: Righteous; 
+                     }
 
 
 
-                 }
+                 h2  { 
 
-
-
-           
-                 h2.sub1 {
-				 color:green;
-				 }
-                 
-				 h2.sub2 {
-				 color:black;
-				 }
 				 
-				 h2.sub3 {
-				 color:pink;
-				 }
+
+		              color: red;
+
+
+
+                            }
+
+
+
 
 
 
@@ -108,7 +106,7 @@
 
 
 
-                       background-image: url('Mycraft Backround.png');
+                       background-image: url('pokemon backround.png');
 
 
 
@@ -226,12 +224,30 @@
 
               }
 
-            img.expleft {
-			float:left；
-			}
-			img.expright{
-			float:right;
-			}
+
+
+		img {
+
+
+
+			float: left;
+
+
+
+			margin-right: 20px;
+
+
+
+			margin-bottom: 10px;
+
+
+
+			
+
+
+
+                                               }
+
 
 
 </style>
@@ -252,13 +268,9 @@
 
 	<div>
 
-	<img  src="mycraft.jpg" width="180px" class= expleft>
+	<h1>Heading!</h1>
 
-	<img src="mycraft.jpg" width="180px" expright>
-<img src="mycraft.jpg" width="180px" expright>
-	<h1>Heading!</h1> 
-
-     
+     <img src="pikachu.png" width="200px">
 
 	<p>
 
@@ -266,7 +278,7 @@
 
 	</p>
 
-	<h2 class="sub1">Subheading 1!</h2>
+	<h2>Subheading 1!</h2>
 
 	
 
@@ -278,7 +290,7 @@
 
 	
 
-	<h2 class="sub2">Subheading 2!</h2>
+	<h2>Subheading 2!</h2>
 
 	
 
@@ -288,7 +300,7 @@
 
     </p>
 
-	<h2 class="sub3">Subheading 3!</h2>
+	<h2>Subheading 3!</h2>
 
 	<ul>
 
@@ -301,11 +313,11 @@
 	<li>Aliquam a sodales</li>
 
 	</ul>
-        <h1><a href="https://www.google.com/search?q=mycraft&rlz=1C1ZKTG_enCA875CA877&oq=mycraft&aqs=chrome..69i57j69i60j69i61.2302j0j8&sourceid=chrome&ie=UTF-8">Mycraft</a></h1>
 
-<img src="mycraft.jpg" width="180px" expright>
-<img src="mycraft.jpg" width="180px" expright>
-<img src="mycraft.jpg" width="180px" expright>
+    <h1><a href="https://en.wikipedia.org/wiki/Detective_Pikachu_(film)
+
+">Pikachu flim!!!</a></h1>
+
 
 
 </div>
