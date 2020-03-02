@@ -1,0 +1,140 @@
+<!DOCTYPE html>  
+
+
+
+<html>
+
+
+
+<head>
+
+
+        <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+        <title>唐家三少</title>
+        <style>
+
+
+	            a: link {
+           		   color:green;
+			       }
+			    a:visited {
+   				   Color:blue;
+				   }
+				a: hover {
+                   background-color: red;
+				   }
+                a: active {
+				   front-size: 16px
+				   }
+							  
+					h1 { 
+				    text-align: center;
+					color: yellow;
+					text-shadow: 2px 2px 3px black;
+                    font-family: Righteous; 
+                    font-size: 48pt;
+				    }
+
+                 h2{
+				     text-align:center;
+				 }
+				 
+				       body {
+			           background-color: silver;
+					   background-image: url('backround1.jpg');
+					   background-repeat: no-repeat;
+					   background-size:cover;
+					   background-position: center;
+					   background-attachment:fixed:
+					   color: green;
+					   font-family: Arial;
+					   font-size: 16pt   
+					   }
+					   
+              ul { 
+			    Color:black;
+                text-shadow: 1px 1px 3px white;
+			    }
+
+              p { 
+			  Color:black;
+			  text-shadow: 1px 1px 3px white;
+			  text-align: left;
+			  }
+			  
+			  div {
+			  background-color: rgba(255, 255, 255, 0.3);
+			  border: 10px solid green; 
+			  margin-left: auto;
+			  margin-right: auto;
+			  margin-top: 150px;
+			  margin-bottom: 150px;
+			  padding: 125px;
+              width: 900px;
+              box-shadow : 10px 10px 100px #61f26d;
+			  }
+
+
+
+		     img {
+		    float: left;
+			margin-right: 20px;
+			margin-bottom: 10px;
+			}
+         table,th{
+		  border-bottom: 1px solid #DDDDDD;
+		  border:1px solid #AAAAAA;
+		  text-align:center;
+		  }
+		
+		table{
+		border-collapse: collapse;
+		width:              700px;
+		}
+		
+		tr {
+		background-color:white;
+		       
+		}
+		
+		.special {
+		background-color: red;
+		color:          white;
+		padding: 10px;
+		}
+		th{
+		background-colour: black;
+		color:             white;
+		}
+
+</style>
+<body>
+<div>
+<table>			
+			<tr>
+			<th class="normal"><a href="唐家三少.html">主页</a></th>
+			<th class="normal"><a href="斗罗系列.html">斗罗系列</a></th>
+			<th class="special"><a href="冰火魔厨.html">冰火魔厨</a></th>
+</table>
+<img src="冰火魔厨.jepg" width="350px">
+<p>唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，一个属于武魂的世界，名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂。这里的每个人，在自己六岁的时候，都会在武魂殿中令武魂觉醒。武魂有动物，有植物，有器物，武魂可以辅助人们的日常生活。而其中一些特别出色的武魂却可以用来修炼并进行战斗，这个职业，是斗罗大陆上最为强大也是最荣耀的职业——魂师!</p>
+<p>当唐门暗器来到斗罗大陆，当唐三武魂觉醒，他能否在这片武魂的世界再铸唐门的辉煌？他能否成为这个世界的主宰：神?  </P>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
